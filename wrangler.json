@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "d1-tutorial",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f412a1e8-410d-4531-a1c5-84ea07f27fb4",
+      "database_name": "d1-tutorial"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
